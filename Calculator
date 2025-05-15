@@ -11,3 +11,8 @@ int minus_a=10;
 int minus_b=5;
 
 Console.WriteLine(a-b);
+
+int multi_a=2;
+int multi_b=2;
+
+Console.WriteLine(a*b);
