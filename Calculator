@@ -16,3 +16,8 @@ int multi_a=2;
 int multi_b=2;
 
 Console.WriteLine(a*b);
+
+
+int div_a=20;
+int div_b=2;
+Console.WriteLine(a/b);
